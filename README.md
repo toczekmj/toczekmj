@@ -20,7 +20,7 @@
 
 [//]: # (&nbsp;)
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=toczekmj&show_icons=true&theme=dark&locale=en" alt="toczekmj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toczekmj&show_icons=true&theme=dark&locale=en" alt="toczekmj" /></p>
 
 &nbsp;
 <h3 align="left">Languages and Tools:</h3>
