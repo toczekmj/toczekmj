@@ -85,7 +85,7 @@
 &nbsp;
 
 <div align="center">
-  <p>&nbsp;
+  <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=toczekmj&show_icons=true&theme=dark&locale=en" alt="toczekmj" />
   </p>
 </div>
