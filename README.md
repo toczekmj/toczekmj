@@ -77,14 +77,12 @@
 
 <div align="center">
   <img href="https://linkedin.com/in/toczekmj" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toczekmj" height="30" width="40" />
-  <p href="mailto:toczekmj@gmail.com">
-    <img align="center" src="https://toczekmj.github.io/icons/icons8-gmail-144.svg" alt="toczekmj" height="35" width="45" />
-  </p>
+  <img href="mailto:toczekmj@gmail.com" align="center" src="https://toczekmj.github.io/icons/icons8-gmail-144.svg" alt="toczekmj" height="35" width="45" />
 </div>
 
 &nbsp;
 
 <div align="center">
-    <img href="mailto://toczekmj@gmail.com" align="center" src="https://github-readme-stats.vercel.app/api?username=toczekmj&show_icons=true&theme=dark&locale=en" alt="toczekmj" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=toczekmj&show_icons=true&theme=dark&locale=en" alt="toczekmj" />
 </div>
 
