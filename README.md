@@ -76,7 +76,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <div align="center">
-  <a href="mailto:toczekmj@gmail.com">
+  <a href="https://linkedin.com/in/toczekmj">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toczekmj" height="30" width="40" />
   </a>
   
