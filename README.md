@@ -89,5 +89,6 @@
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=toczekmj&show_icons=true&theme=dark&locale=en" alt="toczekmj" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toczekmj&layout=compact&langs_count=10&theme=dark" alt="toczekmj" />
 </div>
 
