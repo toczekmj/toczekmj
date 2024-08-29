@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Michał</h1>
-<h3 align="center">.NET Developer @ Sii | Kraków University of Economics student</h3>
+<h1 align="center">Hi 👋, I'm Michał | .NET Developer @ Sii</h1>
+<h3 align="center">Kraków University of Economics student</h3>
 <h3 align="center">Jagiellonian Unifersity graduate</h3>
 
 
