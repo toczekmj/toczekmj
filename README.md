@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Event Storming BlazorWASM App @ Sii
+- 🔭 I’m currently working on **Event Storming BlazorWASM App** @ Sii
 
 - 🌱 I’m currently learning **ASP.NET Core** | **Blazor**
 
