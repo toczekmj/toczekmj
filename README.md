@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
-<h3 align="center">Jagiellonian University student from Kraków</h3>
+<h2 align="center">Kraków University of Economics student</h2>
+<h3 align="center">Jagiellonian Unifersity graduate</h3>
+
 
 
 
