@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Youtube Playlist Downloader](https://github.com/toczekmj/YoutubePlaylistDownloader)
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **ASP.NET Core** | **Blazor**
 
 - 🤝 I’m willing to learn [Angular](https://github.com/angular/angular)
 
