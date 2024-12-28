@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Michał | .NET Developer @ Sii</h1>
+<h1 align="center">Hi 👋, I'm Michał | .NET Developer @ Charles River Development</h1>
 <h3 align="center">Kraków University of Economics student</h3>
 <h3 align="center">Jagiellonian University graduate</h3>
 
 
 
 
-- 🔭 I’m currently working on **Event Storming BlazorWASM App** @ Sii
-
-- 🌱 I’m currently learning **ASP.NET Core** | **Blazor**
+- 🔭 I’m currently working on **Charles River IMS**
+- 🌱 I’m currently learning about **Stock Market** 
 
 - 🤝 I’m willing to learn [Angular](https://github.com/angular/angular)
 
